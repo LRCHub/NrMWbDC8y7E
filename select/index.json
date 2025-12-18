@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ありあ",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-18T07:08:53.263046Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありあ (feat. 可不)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_ありあ_(feat._可不)_MIMI.txt"
+    }
+  ]
+}
